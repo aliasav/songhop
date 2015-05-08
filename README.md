@@ -1,11 +1,14 @@
 # songhop
 Tinder like app for songs.
+
 Main purpose of this project was to get familiar with Angular and Ionic.
+
 App made using Ionic framework
 
 Pre-requisites:
 
 1. AngularJS
+
 2. Ionic framework
 
 
