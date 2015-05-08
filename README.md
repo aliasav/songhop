@@ -17,9 +17,15 @@ Build Project:
 
 3. Initialise server: ionic serve
 
+
 Important links:
+
 1. http://ionicframework.com/getting-started/
+ 
 2. https://thinkster.io/ionic-framework-tutorial/
+
 3. https://thinkster.io/a-better-way-to-learn-angularjs/
+
 4. http://learn.ionicframework.com/formulas/navigation-and-routing-part-1/
+
 5. http://tutorials.jenkov.com/angularjs/index.html
